@@ -1,4 +1,5 @@
-<h1> Hey! 👋 I'm Jyotsna </h1> <h8>...y'all</h8>
+<h1> Hey! 👋 I'm Jyotsna </h1> 
+...y'all (get it? xP)
 
 <!--
 **jyotsnayall/jyotsnayall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
