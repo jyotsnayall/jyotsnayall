@@ -1,6 +1,3 @@
-<h1> Hey! 👋 I'm Jyotsna </h1> 
-...y'all (get it? xP)
-
 <!--
 **jyotsnayall/jyotsnayall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 
-## About Me
-
+## A bit about Me:
+I am a passionate developer. I love to solve problems and am always seeking opportunities to expand my knowledge and apply my skills. 
+- Looking for Fresh-Grad SWE roles
 - I am currently pursuing Bachelors in Information Technology at UIET, Chandigarh with a CGPA of 9.4. (final yr aaah)
 - I am a National Player in Taekwondo, 3 times at that. B)
 - I am a Limca Book of Records Holder for Rubik's Cube.
-- I love to solve problems.
 - Somehow I am always in weird situations.
 
   ### My Tech Stack:
@@ -52,11 +49,13 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  <!--
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)                 <br>
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  -->
 
 ## Fuel My Passion:
 
