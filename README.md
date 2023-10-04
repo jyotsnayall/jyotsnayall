@@ -57,7 +57,7 @@ I am a passionate developer. I love to solve problems and am always seeking oppo
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   -->
 
-### Feel free to reach out to me on <a href="https://www.linkedin.com/in/jyotsnayall" target="_blank">Linkedin</a>
+### <a href="https://www.linkedin.com/in/jyotsnayall" target="_blank">Feel free to reach out to me on Linkedin</a>
 
 ## Fuel My Passion:
 
