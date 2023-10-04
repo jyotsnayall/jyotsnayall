@@ -57,6 +57,8 @@ I am a passionate developer. I love to solve problems and am always seeking oppo
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   -->
 
+### Feel free to reach out to me on <a href="https://www.linkedin.com/in/jyotsnayall" target="_blank">Linkedin</a>
+
 ## Fuel My Passion:
 
 <a href="https://www.buymeacoffee.com/jyotsnayall" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
