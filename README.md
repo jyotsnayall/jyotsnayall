@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## A bit about Me:
 I am a passionate developer. I love to solve problems and am always seeking opportunities to expand my knowledge and apply my skills. 
-- Looking for Winter/Spring 2024 Internship & Fresh-Grad SWE roles
+- Looking for Fresh-Grad SWE roles starting Summer'24 or Fall'24.
 - I am a final year IT student with a CGPA of 9.47. (final yr aaah)
 - I am a National Player in Taekwondo, 3 times at that. B)
 - I am a Limca Book of Records Holder for Rubik's Cube.
